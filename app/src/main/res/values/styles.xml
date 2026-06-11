@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.PracticalExam" parent="android:style/Theme.Material.Light.NoActionBar" />
+</resources>
